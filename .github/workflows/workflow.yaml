@@ -6,7 +6,6 @@ on:
     - main
     paths:
       - '**.tf'
-      - '**.tfvars'
   pull_request:
 
 jobs:
