@@ -7,3 +7,8 @@ variable "region" {
   type = string
   description = "Google Cloud location of resources"
 }
+
+variable "credentials" {
+  type = string
+  description = "Google Cloud location of resources"
+}
